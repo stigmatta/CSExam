@@ -1,0 +1,52 @@
+{
+    {
+
+      "name": "Big Mac",
+      "category": "Burgers",
+      "price": 3.99
+    },
+    {
+      "name": "Quarter Pounder with Cheese",
+      "category": "Burgers",
+      "price": 4.49
+    },
+    {
+      "name": "McChicken",
+      "category": "Burgers",
+      "price": 3.29
+    },
+    {
+      "name": "Filet-O-Fish",
+      "category": "Burgers",
+      "price": 3.79
+    },
+    {
+      "name": "French Fries",
+      "category": "Sides",
+      "price": 1.99
+    },
+    {
+      "name": "Apple Pie",
+      "category": "Desserts",
+      "price": 1.49
+    },
+    {
+      "name": "Coca-Cola",
+      "category": "Drinks",
+      "price": 1.89
+    },
+    {
+      "name": "Sprite",
+      "category": "Drinks",
+      "price": 1.89
+    },
+    {
+      "name": "McFlurry",
+      "category": "Desserts",
+      "price": 2.29
+    },
+    {
+      "name": "Chicken McNuggets (6 pieces)",
+      "category": "Burgers",
+      "price": 3.99
+    }
